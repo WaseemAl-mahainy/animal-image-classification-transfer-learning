@@ -1,4 +1,4 @@
-# Animal Image Classification with EfficientNetB0 Transfer Learning
+#  Animal Image Classification with EfficientNetB0 Transfer Learning
 
 A solo deep learning project that applies transfer learning and fine-tuning using EfficientNetB0 for classifying 10 animal categories from the Animals-10 dataset with TensorFlow/Keras.
 
